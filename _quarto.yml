@@ -1,0 +1,21 @@
+project:
+  title: "Talk title"
+  output-dir: _output
+
+format:
+  revealjs:
+    theme: [default, theme.scss]
+    width: 1280
+    height: 720
+    slide-number: c/t
+    show-slide-number: all
+    progress: true
+    history: true
+    menu: true
+    overview: true
+    embed-resources: true
+    math: false
+    auto-stretch: false
+    highlight-style: github
+    fig-align: center
+    link-external-newwindow: true
